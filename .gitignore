@@ -1,0 +1,5 @@
+Takeout*/
+*.zip
+venv/
+.ipynb_checkpoints/
+
